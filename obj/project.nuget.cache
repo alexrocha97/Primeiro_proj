@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ia+cqKV2Sdzd73QczJKP3DtjnTJrI9Y9IcjYmYUnoUMOesEWKs6hFIcZBOzWbyjCJzUrhodcWIkG0rHZkbfug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ventu\\OneDrive\\Documentos\\Meus dados pessoais\\Repositórios\\02 - PROJ_Pessoais\\04 - DIO\\Primeiro_proj\\Primeiro_proj.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.100.1.167:8686/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

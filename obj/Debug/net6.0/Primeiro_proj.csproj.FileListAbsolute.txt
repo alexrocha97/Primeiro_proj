@@ -1,0 +1,15 @@
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\bin\Debug\net6.0\Primeiro_proj.exe
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\bin\Debug\net6.0\Primeiro_proj.deps.json
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\bin\Debug\net6.0\Primeiro_proj.runtimeconfig.json
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\bin\Debug\net6.0\Primeiro_proj.dll
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\bin\Debug\net6.0\Primeiro_proj.pdb
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.csproj.AssemblyReference.cache
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.AssemblyInfoInputs.cache
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.AssemblyInfo.cs
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.csproj.CoreCompileInputs.cache
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.dll
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\refint\Primeiro_proj.dll
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.pdb
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\Primeiro_proj.genruntimeconfig.cache
+C:\Users\ventu\OneDrive\Documentos\Meus dados pessoais\Repositórios\02 - PROJ_Pessoais\04 - DIO\Primeiro_proj\obj\Debug\net6.0\ref\Primeiro_proj.dll
